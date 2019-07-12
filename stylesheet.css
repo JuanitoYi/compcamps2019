@@ -1,8 +1,8 @@
-body{font-family: 'Mountains of Christmas', cursive;
+body{
   background-color: black;
 }
 
-.title{
+.title{font-family: 'Mountains of Christmas', cursive;
   color: white;
   text-align: center;
   font-size: 100px;
@@ -10,12 +10,10 @@ body{font-family: 'Mountains of Christmas', cursive;
 .paragraph{
   color: #85392C
 }
-.hello{
-  width:310px;
-  background-color: orange;
-}
+
 .paragraph{
   background-color: orange;
+  font-size: 30px;
 }
 
 .nav{
@@ -34,4 +32,23 @@ body{font-family: 'Mountains of Christmas', cursive;
 a{font-family: 'Literata', serif;
   text-decoration: none;
   color: black;
+}
+.juanito{
+  display: block;
+  margin: 0 auto;
+  border-radius:80%;
+}
+
+.code{
+  width:800px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20%;
+}
+
+.Capture{
+  width:400px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20%;
 }
