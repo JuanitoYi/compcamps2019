@@ -1,0 +1,42 @@
+body{font-family: 'Mountains of Christmas', cursive;
+  background-color: black;
+}
+
+.title{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+.paragraph{
+  color: #85392C
+}
+.hello{
+  width:310px;
+  background-color: orange;
+}
+.paragraph{
+  background-color: orange;
+}
+
+.nav{
+  text-align: center;
+  background-color: orange
+
+}
+.navbar{
+
+}
+
+.navlink{
+  font-size: 30px;
+}
+
+a{font-family: 'Literata', serif;
+  text-decoration: none;
+  color: black;
+}
+
+.https://tenor.com/view/angry-gif-5902151{
+  width:310px;
+  background-color: orange;
+}
